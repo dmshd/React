@@ -1,0 +1,83 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# # dependencies
+# /node_modules
+# /.pnp
+# .pnp.js
+
+# # testing
+# /coverage
+
+# # production
+# /build
+
+# # misc
+# .DS_Store
+# .env.local
+# .env.development.local
+# .env.test.local
+# .env.production.local
+
+# npm-debug.log*
+# yarn-debug.log*
+# yarn-error.log*
+
+initiation-react-cepegra-01-starter/node_modules
+initiation-react-cepegra-01-starter/.pnp
+initiation-react-cepegra-01-starter/.pnp.js
+initiation-react-cepegra-01-starter/coverage
+initiation-react-cepegra-01-starter/build
+initiation-react-cepegra-01-starter/.DS_Store
+initiation-react-cepegra-01-starter/.env.local
+initiation-react-cepegra-01-starter/.env.development.local
+initiation-react-cepegra-01-starter/.env.test.local
+initiation-react-cepegra-01-starter/.env.production.local
+initiation-react-cepegra-01-starter/npm-debug.log*
+initiation-react-cepegra-01-starter/yarn-debug.log*
+initiation-react-cepegra-01-starter/yarn-error.log*
+
+# dependencies
+initiation-react-cepegra-02-routerdemo/node_modules
+initiation-react-cepegra-02-routerdemo/.pnp
+initiation-react-cepegra-02-routerdemo/.pnp.js
+
+# testing
+initiation-react-cepegra-02-routerdemo/coverage
+
+# production
+initiation-react-cepegra-02-routerdemo/build
+
+# misc
+initiation-react-cepegra-02-routerdemo/.DS_Store
+initiation-react-cepegra-02-routerdemo/.env.local
+initiation-react-cepegra-02-routerdemo/.env.development.local
+initiation-react-cepegra-02-routerdemo/.env.test.local
+initiation-react-cepegra-02-routerdemo/.env.production.local
+
+initiation-react-cepegra-02-routerdemo/npm-debug.log*
+initiation-react-cepegra-02-routerdemo/yarn-debug.log*
+initiation-react-cepegra-02-routerdemo/yarn-error.log*
+
+
+# dependencies
+initiation-react-cepegra-03-newsoasis/node_modules
+initiation-react-cepegra-03-newsoasis/.pnp
+initiation-react-cepegra-03-newsoasis/.pnp.js
+
+# testing
+initiation-react-cepegra-03-newsoasis/coverage
+
+# production
+initiation-react-cepegra-03-newsoasis/build
+
+# misc
+initiation-react-cepegra-03-newsoasis/.DS_Store
+initiation-react-cepegra-03-newsoasis/.env.local
+initiation-react-cepegra-03-newsoasis/.env.development.local
+initiation-react-cepegra-03-newsoasis/.env.test.local
+initiation-react-cepegra-03-newsoasis/.env.production.local
+
+initiation-react-cepegra-03-newsoasis/npm-debug.log*
+initiation-react-cepegra-03-newsoasis/yarn-debug.log*
+initiation-react-cepegra-03-newsoasis/yarn-error.log*
+
